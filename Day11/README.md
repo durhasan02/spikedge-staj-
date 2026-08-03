@@ -59,12 +59,7 @@ Sonraki adımlarda CLAHE'yi gerçek veriler üzerinde test etmeyi, export fonksi
 ## Kullanılan Teknolojiler
 `Python 3.12`, `OpenCV (CLAHE, LAB renk uzayı, approxPolyDP, findContours)`, `PyQt5`, `NumPy`, `COCO JSON formatı`, `LLM Vision Studio`
 
----
 
-## Üretilen Çıktılar
-- `clahe_entegre.png` — CLAHE entegrasyonu split-view görüntüsü
-- `etiket.png` — Tren rayı etiketleme ekran görüntüsü
-- Güncellenmiş etiketlenen COCO JSON ve PNG mask veri seti
 
 ---
 [Ana Sayfaya Geri Dön](../README.md) | [Gün 10 Raporu](../Day10/README.md)
