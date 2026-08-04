@@ -48,8 +48,6 @@ Sonraki adımlarda bu pipeline'ı tarım görüntüleri üzerinde test etmeyi, s
 ## Kullanılan Teknolojiler
 `Python 3.12`, `PyTorch 2.11+cu128`, `CUDA Toolkit 12.8`, `Grounding DINO (IDEA-Research, HuggingFace)`, `SAM 2 (Meta AI, Ultralytics)`, `PyQt5`, `digitalsreeni-image-annotator`, `llm-vision-for-scientists`
 
----
-[Ana Sayfaya Geri Dön](../README.md) | [Gün 02 Raporuna Git](../Day02/README.md)
 
 ---
 *Hazırlayan: Durhasan*

@@ -77,7 +77,4 @@ Yarın öncelikle temiz proje klasör yapısına geçiş yapılacak, ardından 1
 - `proje_yapisi_kilavuz.md` — Klasör yapısı ve iş akışı kılavuzu.
 
 ---
-[Ana Sayfaya Geri Dön](../README.md) | [Gün 03 Raporu](../Day03/README.md) | [Gün 05 Raporuna Git](../Day05/README.md)
-
----
 *Hazırlayan: Durhasan*

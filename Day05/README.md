@@ -70,7 +70,4 @@ Sonraki adımlarda undo/redo iyileştirmelerini koda tam entegre etmeyi, 10-15 g
 - `data/coco/round_01/` — 15 görüntü, 76 anotasyon içeren `train.json` ve `val.json` (ilk tur eğitim verisi).
 
 ---
-[Ana Sayfaya Geri Dön](../README.md) | [Gün 04 Raporu](../Day04/README.md) | [Gün 06 Raporuna Git](../Day06/README.md)
-
----
 *Hazırlayan: Durhasan*

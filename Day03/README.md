@@ -65,7 +65,4 @@ Sonraki adımlarda tespit kalitesini artırmak için tiling ve fine-tune tabanl�
 `Python 3.12`, `PyTorch 2.11+cu128`, `PyQt5`, `HuggingFace Transformers (Grounding DINO, SAM 2)`, `OpenCV`, `NumPy`, `torchvision (NMS)`, `llm-vision-for-scientists (bnsreenu)`
 
 ---
-[Ana Sayfaya Geri Dön](../README.md) | [Gün 02 Raporu](../Day02/README.md) | [Gün 04 Raporuna Git](../Day04/README.md)
-
----
 *Hazırlayan: Durhasan*

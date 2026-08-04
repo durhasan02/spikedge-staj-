@@ -54,8 +54,7 @@ Sonraki adımlarda **LLM Vision Studio** uygulamasının kodlanmasına başlanac
 ## Üretilen Çıktılar
 - `llm_vision_studio_spec.md` — Birleşik araç mimarisi ve canvas iyileştirmeleri spesifikasyon dokümanı.
 
----
-[Ana Sayfaya Geri Dön](../README.md) | [Gün 05 Raporu](../Day05/README.md)
+
 
 ---
 *Hazırlayan: Durhasan*

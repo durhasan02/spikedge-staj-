@@ -74,7 +74,4 @@ Sonraki adımlarda v5 aracını tarım görüntüleri üzerinde test etmeyi, bat
 - `annotation_tool_v5_kod_kilavuzu.md` — Kodun bölüm bölüm açıklamalı teknik kılavuzu.
 
 ---
-[Ana Sayfaya Geri Dön](../README.md) | [Gün 01 Raporu](../Day01/README.md) | [Gün 03 Raporuna Git](../Day03/README.md)
-
----
 *Hazırlayan: Durhasan*

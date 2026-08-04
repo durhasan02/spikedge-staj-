@@ -61,8 +61,6 @@ Sonraki adımlarda CLAHE'yi gerçek veriler üzerinde test etmeyi, export fonksi
 
 
 
----
-[Ana Sayfaya Geri Dön](../README.md) | [Gün 10 Raporu](../Day10/README.md)
  
 ---
 *Hazırlayan: Durhasan*
