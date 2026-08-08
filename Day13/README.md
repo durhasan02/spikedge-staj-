@@ -1,6 +1,6 @@
 # Gün 13 - Günlük Çalışma Raporu
 
-**Tarih:** 6 Ağustos 2026  
+**Tarih:** 5 Ağustos 2026  
 **Konu:** Görüntü İşleme ve Segmentasyon Metotlarının Test Edilmesi, Karşılaştırmalı Analizi ve Railsem Veri Etiketleme Çalışmaları
 
 ---

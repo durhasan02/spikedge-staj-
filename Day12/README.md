@@ -1,6 +1,6 @@
 # Gün 12 - Günlük Çalışma Raporu
 
-**Tarih:** 5 Ağustos 2026  
+**Tarih:** 4 Ağustos 2026  
 **Konu:** Görüntü İşleme Yöntemleri Araştırması ve Frame Etiketleme  
 
 ---
