@@ -16,7 +16,7 @@ Bugün, geliştirmekte olduğumuz LLM Vision Studio aracına "Video Anotasyon" y
 ### 1. SAM 3 Kurulumu ve Windows Entegrasyon Testleri
 - **Ortam Kurulumu:** SAM 3 için izole sanal ortam (venv) oluşturulup, Hugging Face üzerinden gerekli ağırlık dosyaları indirildi.
 - **Windows Uyumluluğunun Aşılması:** Orijinal kodların sadece Linux/Triton tabanlı sunucularda çalışabilme kısıtlaması, OpenCV kullanılarak yazılan özel köprü (fallback) algoritmalarıyla giderildi.
-- **Test ve Çıktılar:** Modelin fotoğraflarda ve videolarda metin (prompt) komutuyla nesneleri tespit etmesi başarıyla sağlandı. Ancak SAM 3'ün yüksek VRAM kullanımı nedeniyle, video testlerinde çoklu kelime aramasından vazgeçilip tek kelimeye odaklanıldı ve video çözünürlüğü küçültülerek `output_video.mp4` başarılı bir şekilde oluşturuldu. 
+- **Test ve Çıktılar:** Modelin fotoğraflarda ve videolarda metin (prompt) komutuyla nesneleri tespit etmesi başarıyla sağlandı. Ancak SAM 3'ün yüksek VRAM kullanımı nedeniyle, video testlerinde çoklu kelime aramasından vazgeçilip tek kelimeye odaklanıldı ve video çözünürlüğü küçültülerek testler gerçekleştirildi.
 
 ### 2. Video Anotasyon Yöntem Araştırması ve Seçimi
 - Mevcut yapıya zarar vermeden (eklenti mantığıyla) araca video desteği eklemek için çeşitli yöntemler kıyaslandı:

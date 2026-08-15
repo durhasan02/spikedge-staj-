@@ -17,7 +17,6 @@ Dün planlamasını ve model testlerini bitirdiğim video anotasyon özelliğini
 
 - Tüm video mantığı `video_tools.py` adında **yeni ve bağımsız bir dosyaya** yazıldı. Arayüz kodu içermiyor, komut satırından tek başına da çalışabiliyor.
 - Araca **"🎬 Video"** sekmesi eklendi: video seçme, kare çıkarma, takibi başlatma ve çıktı klasörlerinin otomatik belirlenmesi bu ekranda yapılıyor.
-- **Mimari kural korundu:** `annotator.py`, `finetune_tool.py`, `auto_pipeline.py` ve `yolo_tools.py` dosyalarına **hiç dokunulmadı**. Tüm yeni davranış, mevcut araca dışarıdan eklenti mantığıyla bağlandı (dosyaların değişmediği tarih damgalarıyla doğrulandı).
 
 ![Video Sekmesi](./video_sekmesi.png)  
 *(Yeni "Video" sekmesi: sol tarafta kare çıkarma ve takip ayarları, sağ tarafta canlı önizleme ve işlem kaydı)*
@@ -99,7 +98,7 @@ Video karelerinin komşuları birbirinin neredeyse kopyası olduğu için, verin
 
 Video anotasyon özelliği araca tamamen entegre edildi ve gerçek bir video üzerinde uçtan uca çalıştığı doğrulandı. Daha önce her kareyi tek tek elle işaretlemek gerekirken artık tek bir karede yapılan işaretleme tüm videoya taşınıyor, sistem yalnızca şüpheli kareleri kullanıcının önüne getiriyor ve ortaya çıkan veri doğrudan model eğitimine hazır hâle geliyor. Mevcut dosyaların hiçbirine dokunulmadığı için aracın önceki tüm özellikleri korundu.
 
-**Sonraki adım:** Üretilen drone veri setiyle model eğitimi yapmak ve sonuçları önceki turlarla karşılaştırmak.
+**Sonraki adım:** Yapılan yeniliklerin test edilmesi ve gerekirse iyileştirmeler ve düzenlemeler yapılması.
 
 ---
 *Hazırlayan: Durhasan*
