@@ -1,6 +1,6 @@
 # Gün 21 - Günlük Çalışma Raporu
 
-**Tarih:** 20 Ağustos 2026  
+**Tarih:** 17 Ağustos 2026  
 **Konu:** Teknik Rapor ve Kullanım Kılavuzunun Hazırlanması
 
 ---
